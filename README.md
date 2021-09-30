@@ -1,7 +1,7 @@
 # FFMPEG
 FFMPEG codes
 
-
+- [Social Media Basic Video Editing](https://medium.com/abraia/basic-video-editing-for-social-media-with-ffmpeg-commands-1e873801659)
 - Encoding requirement for IGTV : 
   - MP4 Container format
   - H.264 Video Codec
